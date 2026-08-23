@@ -1,0 +1,6 @@
+{
+  "name": "CargoMatch - B2B Логистическая Платформа",
+  "description": "B2B онлайн-платформа для грузоперевозок в Кыргызстане и Центральной Азии: умный matching грузов и транспорта, обратные грузы, предложения цен, трекинг заказов и управление автопарком.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
